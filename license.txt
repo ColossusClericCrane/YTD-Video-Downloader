@@ -1,0 +1,30 @@
+__  ____________     ____  ____ _       ___   ____    ____  ___    ____  __________ 
+\ \/ /_  __/ __ \   / __ \/ __ \ |     / / | / / /   / __ \/   |  / __ \/ ____/ __ \
+ \  / / / / / / /  / / / / / / / | /| / /  |/ / /   / / / / /| | / / / / __/ / /_/ /
+ / / / / / /_/ /  / /_/ / /_/ /| |/ |/ / /|  / /___/ /_/ / ___ |/ /_/ / /___/ _, _/ 
+/_/ /_/ /_____/  /_____/\____/ |__/|__/_/ |_/_____/\____/_/  |_/_____/_____/_/ |_|  
+                                                                                    
+
+YTD Video Downloader
+
+YTD Video Downloader — Classic Media Tool
+
+
+About
+- Downloads and converts clips to MP4 AVI and MP3 for offline libraries.
+- Full build: multi-download, activity monitor, automatic naming, mobile sync folder.
+- Platform: Windows macOS
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/DOWNLOAD-05-25-23 
+
+**************************************************
+
+
+TAGS
+ytd, video-downloader, media, mp4, mp3, converter, windows, mac, offline
